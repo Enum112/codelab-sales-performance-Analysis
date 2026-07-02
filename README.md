@@ -48,7 +48,7 @@ The report includes a **Year** and **Product** slicer, allowing users to filter 
 - Slicers: Year, Product (Chair, Desk, Laptop, Monitor, Phone, Printer, Tablet)
 ---
 
-##<img width="479" height="274" alt="codelab" src="https://github.com/user-attachments/assets/3372ae3b-ba13-4c14-9e08-b8eba1f7c2b8" />
+<img width="479" height="274" alt="codelab" src="https://github.com/user-attachments/assets/3372ae3b-ba13-4c14-9e08-b8eba1f7c2b8" />
 
  
 ## 💡 Key Insights
